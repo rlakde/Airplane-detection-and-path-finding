@@ -1,2 +1,3 @@
 # Airplane-detection-and-path-finding
-Its an Artificial Intelligence based project based on optimal path finding algorithms
+It is an Artificial Intelligence related project which helps to detect the disappeared airplane and track its exact location. This can be used when the airplane loses its track from its original path due to traffic or bad weather. It takes the plane to its original path or ends a new optimal path to the destination. Based on the last updated position and available physical parameter of the plane our project can decide the location where it would have gone. It also tells the correct position to the plane or end the optimal path.
+We used Image Fusion techniques like Average method and Path Finding algorithm like A* algorithm and Triangular Path Finding Algorithm.
